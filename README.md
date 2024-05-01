@@ -1,7 +1,7 @@
-# Project CRUD Test CF Partners using CodeIgniter 4 Framework
+# Project CRUD Test CF Partners using CodeIgniter 4 
 
 ## 💻 Overview about the project
-This project entails a CRUD (Create, Read, Update, Delete) functionality implemented using Codeigniter 4 framework. CRUD operations serve as the fundamental building blocks for managing data within an application, allowing users to create, retrieve, update, and delete records seamlessly. Leveraging the robust features of Codeigniter 4, this project aims to provide a reliable and efficient solution for handling data management tasks,
+This project entails a CRUD (Create, Read, Update, Delete) functionality implemented using Codeigniter 4 framework. CRUD operations serve as the fundamental building blocks for managing data within an application, allowing users to create, retrieve, update, and delete records seamlessly. Leveraging the robust features of Codeigniter 4, this project aims to provide a reliable and efficient solution for handling data management tasks.
 
 ## ⚙️ Functionalities
 - [x] Create: Register a new user inside our base data e with your personal data.
@@ -10,8 +10,10 @@ This project entails a CRUD (Create, Read, Update, Delete) functionality impleme
 - [x] Delete: Are you not satisfected? Do not worry, you can delete you user.
 - [x] Another funcionalities
 
-Demo
-See a demo of the project by clicking <a href=(https://teste-cfpartners-21mk.vercel.app/landing-page)>here</a> /.
+## 🚀 How to see the project
+
+See our demo of the project by clicking on link below
+https://teste-cfpartners-21mk.vercel.app/landing-page
 
 ## 🚀 How to run
 
