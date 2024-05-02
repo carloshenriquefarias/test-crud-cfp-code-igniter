@@ -1,7 +1,7 @@
-# Project CRUD Test CF Partners using CodeIgniter 4 
+# API CRUD Test CF Partners using CodeIgniter 4 
 
 ## 💻 Overview about the project
-This project entails a CRUD (Create, Read, Update, Delete) functionality implemented using Codeigniter 4 framework. CRUD operations serve as the fundamental building blocks for managing data within an application, allowing users to create, retrieve, update, and delete records seamlessly. Leveraging the robust features of Codeigniter 4, this project aims to provide a reliable and efficient solution for handling data management tasks.
+This API entails a CRUD (Create, Read, Update, Delete) functionality implemented using Codeigniter 4 framework. CRUD operations serve as the fundamental building blocks for managing data within an application, allowing users to create, retrieve, update, and delete records seamlessly. Leveraging the robust features of Codeigniter 4, this project aims to provide a reliable and efficient solution for handling data management tasks.
 
 ## ⚙️ Functionalities
 - [x] Create: Register a new user inside our base data e with your personal data.
@@ -12,7 +12,7 @@ This project entails a CRUD (Create, Read, Update, Delete) functionality impleme
 
 ## 🚀 How to see the project
 
-See our demo of the project by clicking on link below
+See our demo of the project by clicking on link
 https://teste-cfpartners-21mk.vercel.app/landing-page
 
 ## 🚀 How to run
@@ -23,18 +23,24 @@ Before starting, you will need clone the project.
 
 #### 🧭 Running the application
 
-Rename the env to .env, put your database settings and base url of your application.
-Run the migrations so that the tables are created:
-- php spark migrate
+```bash
 
-To run the application run:
-- php spark serve
+# Rename the file
+$ Rename the env to .env, put your database settings and base url of your application.
 
-Server Requirements
-PHP version 7.4 or higher is required, with the following extensions installed:
+# Run the migrations so that the tables are created:
+$ - php spark migrate
 
+# To run the application run:
+$ - php spark serve
+
+# Server Requirements
+$ PHP version 7.4 or higher is required, with the following extensions installed:
 - intl
 - mbstring
+
+The application will open on port:8080 - access http://localhost:8080
+```
 
 ## 🛠 Technologies and extensions
 
